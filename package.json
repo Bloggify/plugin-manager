@@ -22,6 +22,5 @@
   },
   "homepage": "https://github.com/Bloggify/plugin-manager#readme",
   "dependencies": {
-    "git-module-installer": "^1.0.2"
   }
 }
