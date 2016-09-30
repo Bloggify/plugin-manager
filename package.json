@@ -21,6 +21,5 @@
     "url": "https://github.com/Bloggify/plugin-manager/issues"
   },
   "homepage": "https://github.com/Bloggify/plugin-manager#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
