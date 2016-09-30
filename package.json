@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Bloggify/plugin-manager.git"
-  },
   "keywords": [
     "plugin",
     "manager",
@@ -17,9 +13,13 @@
   ],
   "author": "Bloggify <contact@bloggify.org> (http://bloggify.org)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Bloggify/plugin-manager/issues"
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/bloggify-plugin-manager.git"
   },
-  "homepage": "https://github.com/Bloggify/plugin-manager#readme",
-  "dependencies": {}
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/bloggify-plugin-manager/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/bloggify-plugin-manager#readme"
 }
