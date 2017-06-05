@@ -1,7 +1,7 @@
 {
   "name": "bloggify-plugin-manager",
-  "version": "1.0.0",
-  "description": "The official plugin manager for Bloggify.",
+  "version": "1.0.1",
+  "description": "The default Bloggify plugin manager.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,15 +11,27 @@
     "manager",
     "bloggify"
   ],
-  "author": "Bloggify <contact@bloggify.org> (http://bloggify.org)",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "license": "MIT",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IonicaBizau/bloggify-plugin-manager.git"
+    "url": "git+https://github.com/Bloggify/plugin-manager.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-plugin-manager/issues"
+    "url": "https://github.com/Bloggify/plugin-manager/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-plugin-manager#readme"
+  "homepage": "https://github.com/Bloggify/plugin-manager#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
